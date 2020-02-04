@@ -1,7 +1,7 @@
 # Welcome to my Maze Race game!
 
 ## Description
-This is a small Unity game I made for a final project in a university course. All scripts and prefabs are my own, except for the Slime prefab and the RPG Monster Duo Polyart assets folder (property of user Dungeon Mason on Unity). 
+This is a small Unity game I made for a final project in a university course. All scripts and prefabs are my own, except for the Slime prefab and the RPG Monster Duo Polyart assets folder (property of user Dungeon Mason on Unity). Import the MazeRace.unitypackage into Unity to get this game.
 
 ### How to play
   * Start by opening the "Start Game" scene. 
