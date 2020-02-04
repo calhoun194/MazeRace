@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ef794f0e263438949a07f636ff74fe85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Walls: {fileID: 8220345580393817886, guid: 5f407776bf600ea4cada3b66c659efbb, type: 3}
+  - StartPos: {fileID: 2643996208061968264, guid: 3f4f6b178dcfa2745bef2854763ca8a0,
+      type: 3}
+  - FinishPos: {fileID: 4325432066265918293, guid: adfe808030bc20c43bfac1dd54fbdaca,
+      type: 3}
+  - Player: {fileID: 4655808734662039598, guid: 473c9c29f6fa9f74aa2c3a12b584b694,
+      type: 3}
+  - Slime: {fileID: 9181694824007370055, guid: ca9371be5f49aad45adc040333a786f8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
