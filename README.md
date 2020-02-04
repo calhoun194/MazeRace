@@ -7,7 +7,7 @@ This is a small Unity game I made for a final project in a university course. Al
   * Start by opening the "Start Game" scene. 
   * Press play in Unity.
   * Controls:
-    * ↑ to move forward, 
+    * ↑ to move forward.
     * ← to rotate the camera left 
     * → to rotate the camera right. 
     * Press space to change the camera view between first person and top down view. In top down, you'll appear as a yellow sphere. 
